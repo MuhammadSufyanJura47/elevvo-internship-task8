@@ -6,7 +6,6 @@ It’s a **Job Application Tracker** (local-first) built with **React + React Ro
 
 For a modern UI experience, it also includes smooth page transitions using **Framer Motion** and a subtle animated **Three.js background** using **React Three Fiber**.
 
-**Repository:** https://github.com/MuhammadSufyanJura47/elevvo-internship-task8/tree/main
 
 ## Key Features / Functions
 ### 1) Multi‑Page Routing (React Router)
